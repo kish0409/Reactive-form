@@ -1,0 +1,22 @@
+input.ng-invalid{border: 1px solid red;}
+input.ng-valid{border-left: 5px solid green;}
+
+.container{
+    box-shadow: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    top:60px;
+    left:475px;
+}
+
+.form-group{
+    width: 350px;
+    padding: 5px;
+
+    
+}
+
+
